@@ -1,4 +1,4 @@
-package variable;
+package week02;
 
 public class W13 {
     public static void main(String[] args) {
